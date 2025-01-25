@@ -1,0 +1,6 @@
+@MiLockProsBackend_HostAddress = http://*:5042
+
+GET {{MiLockProsBackend_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
